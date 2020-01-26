@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: my.retail
+---
+testFramework: junit
+sourceLanguage: java
